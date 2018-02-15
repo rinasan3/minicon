@@ -12,4 +12,5 @@
  *
  *= require_tree ./consumer
  *= require_self
+ *= require_tree ./shared
  */
